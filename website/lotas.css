@@ -1,0 +1,74 @@
+.img{
+  display: flex;
+
+  margin-bottom:  100px;
+  margin-right: 200px;
+  height: 500px;
+  width: 700px;
+  border-radius: 10px;
+
+}
+a{
+  text-decoration: none;
+  color: rgba(92, 88, 88, 0.852);
+ margin: 2px;
+}
+ol{
+margin-right: 10px;
+margin-top: 300px;
+}
+.but button{
+  
+padding: 5px 30px;
+font-size: 15px;
+font-weight: bold;
+background-color: #fffbfb;
+color: #838181;
+text-align: center;
+border: 1px solid #000;
+border-radius: 5px;
+
+
+}
+.sala{
+  margin-right: 650px;
+}
+.but .mosh{
+  margin-bottom: 50px;
+}
+.wasf{
+  
+    padding: 32px 24px;
+    border-radius: 2px 2px 4px 4px;
+    margin-bottom: 16px;
+    border-width: 0px 1px 1px;
+    border-color: rgb(205, 204, 204);
+    border-style: solid;
+    margin-top: 20px;
+}
+table {
+  
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px dotted #000;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  .btn-green {
+    padding: 5px 10px;
+    border: none;
+    background-color: rgb(73, 185, 117);
+    color: white;
+  }
+  
+  .nav-item {
+    color: gray;
+  }
+  
+  .header-line {
+    background: linear-gradient(to right, rgba(255, 208, 7) 0%, rgba(255, 208, 7) 12.5%, rgba(192, 156, 221, 1) 62.5%, rgba(192, 156, 221, 1) 75%);
+    height: 5px; 
+  }

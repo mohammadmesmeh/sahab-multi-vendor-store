@@ -1,0 +1,38 @@
+.btn-green {
+  padding: 5px 10px;
+  border: none;
+  background-color: rgb(73, 185, 117);
+  color: white;
+}
+
+.nav-item {
+  color: gray;
+}
+
+.header-line {
+  background: linear-gradient(to right, rgba(255, 208, 7) 0%, rgba(255, 208, 7) 12.5%, rgba(192, 156, 221, 1) 62.5%, rgba(192, 156, 221, 1) 75%);
+  height: 5px;
+}
+
+.main {
+  background-image: url('img/slider-2.jpg');
+  height: 400px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.welcome{
+  left: 100px;
+  margin-right:8px ;
+}
+
+img {
+  box-shadow: 30%;
+}
+
+.itmes {
+  overflow: hidden;
+  overflow-x: scroll;
+}
